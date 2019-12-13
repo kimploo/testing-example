@@ -6,7 +6,6 @@
   "author": "duhyundev <duhyun.dev@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "create": "webpack",
     "start-client": "webpack-dev-server",
     "test-client": "export NODE_ENV=test && mocha --require @babel/register ./client/spec/**/*.test.jsx --exit",
     "start-server": "node server/index.js",
