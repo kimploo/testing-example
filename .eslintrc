@@ -1,0 +1,16 @@
+{
+  "env": {
+    "node": true,
+    "mocha": true
+  },
+  "extends": "airbnb",
+  "rules": {
+    "arrow-parens": "off",
+    "comma-dangle": "off",
+    "arrow-body-style": "off",
+    "import/no-dynamic-require": "off",
+    "strict": "off",
+    "dot-notation": "off",
+    "no-var": "off"
+  }
+}

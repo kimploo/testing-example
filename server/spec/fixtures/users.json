@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Duhyun Kim",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jayphen/128.jpg",
+    "email": "duhyun.kim@codestates.com",
+    "job": "software engineer"
+  },
+  {
+    "id": 2,
+    "name": "Johny Koo",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jffgrdnr/128.jpg",
+    "email": "johnykoo@codestates.com",
+    "job": "software engineer"
+  },
+  {
+    "id": 3,
+    "name": "Seunghwan Oh",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/maz/128.jpg",
+    "email": "seunghwan.oh@codestates.com",
+    "job": "software engineer"
+  }
+]
