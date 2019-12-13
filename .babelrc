@@ -1,0 +1,7 @@
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"],
+  "plugins": [
+    "istanbul",
+    ["babel-plugin-webpack-alias", { "config": "./webpack.config.js" }]
+  ]
+}

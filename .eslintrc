@@ -11,6 +11,8 @@
     "import/no-dynamic-require": "off",
     "strict": "off",
     "dot-notation": "off",
-    "no-var": "off"
+    "no-var": "off",
+    "react/jsx-one-expression-per-line": "off",
+    "import/no-unresolved": "off"
   }
 }
